@@ -9,4 +9,30 @@ body ,html{
     background-size: cover;
   }
 
-  
+  h1
+  {
+    font-size: 3rem;
+    color: rgb(240, 240, 240);
+    text-shadow: 2px 3px #000000;
+  }
+
+ .btn
+ {
+    font-weight: 600;
+    /* border-radius: 300px; */
+    text-transform: uppercase;
+    max-width: 20%;
+ }
+
+ .btn-dark:hover
+ {
+    background-color: rgb(10, 10, 10);
+    color: whitesmoke;
+    border-width: 3px;
+ }
+
+ hr
+ {
+border-color: orangered;
+border-width: 3px;
+ }
