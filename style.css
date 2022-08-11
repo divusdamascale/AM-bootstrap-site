@@ -12,9 +12,15 @@ body ,html{
   h1
   {
     font-size: 3rem;
-    color: rgb(240, 240, 240);
-    text-shadow: 2px 3px #000000;
+    color: rgb(255, 255, 255);
+    text-shadow:2px 2px #000000;
   }
+
+  .logo
+  {
+    opacity: 0.8;
+  }
+  
 
  .btn
  {
@@ -33,6 +39,12 @@ body ,html{
 
  hr
  {
-border-color: orangered;
+border-color: rgba(255, 68, 0, 0.719);
 border-width: 3px;
  }
+
+ p
+ {
+    opacity: 1;
+ }
+ 
